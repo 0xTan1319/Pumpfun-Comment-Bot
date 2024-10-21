@@ -1,5 +1,5 @@
 # Pump.Fun Comment Bot
-An open-source comment bot for Pump.Fun. Thread mode or Shill mode available.
+An comment bot for Pump.Fun. Thread mode or Shill mode available.
 
 
 ## Overview
@@ -7,7 +7,7 @@ An open-source comment bot for Pump.Fun. Thread mode or Shill mode available.
 This bot is designed to automate the process of posting comments on your projects, ensuring high engagement and authentic interactions. It comes with a user-friendly interface, human-generated comments, versatile modes, and top-notch anti-captcha software. 
 
 
-In order to be update to date or get support, join us at [discord.gg/solana-scripts](https://discord.gg/solana-scripts)
+In order to be update to date or get support, contact here telegram: [@shiny0103](https://t.me/shiny0103)
 
 ## Features
 
@@ -38,4 +38,4 @@ node main.js
 
 ````
 
- In order to be update to date or get support, join us at [discord.gg/solana-scripts](https://discord.gg/solana-scripts)
+ In order to be update to date or get support, contact here: telegram: [@shiny0103](https://t.me/shiny0103)
